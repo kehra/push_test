@@ -1,0 +1,7 @@
+{
+  "name": "PushNotificationDemo",
+  "short_name": "PushNotificationDemo",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "315335675592"
+}
